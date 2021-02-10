@@ -29,7 +29,9 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Oriģinālā sākuma lapa.
 </details>
 ![Oriģinālā sākuma lapa](Result\Īstais_Google.png)
+
 ---
+
 <details>
   <summary>Otrā bilde ir...</summary>
   Mans Google sākumlapas veidošanas meiģinājums
