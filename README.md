@@ -28,7 +28,7 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   <summary>Pirmā bilde ir...</summary>
   Oriģinālā sākuma lapa.
 </details>
-![original](https://i.ibb.co/fDvZkfJ/istais-Google.png)
+![istaisGoogle](https://user-images.githubusercontent.com/78017380/107571660-e2ba0980-6bf3-11eb-9bc0-562d28486c30.jpg)
 
 ---
 
@@ -36,4 +36,4 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   <summary>Otrā bilde ir...</summary>
   Mans Google sākumlapas veidošanas meiģinājums
 </details>
-![recreation](https://i.ibb.co/3Bvyn0d/Mans-Google.png) <!--ja šitais nestrādās es nezinu, augšupielādēšu kautkur un lietošu linku.-->
+![MansGoogle](https://user-images.githubusercontent.com/78017380/107571709-f36a7f80-6bf3-11eb-88d2-c1406f04619f.jpg)
