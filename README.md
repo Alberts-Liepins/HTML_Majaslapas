@@ -40,7 +40,7 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Oriģinālā sākuma lapa.
 </details>
 
-![istaisGoogle](Rezultati\IstaisGoogle.jpg)
+![istaisGoogle](https://github.com/Alberts-Liepins/HTML_Majaslapas/blob/main/Rezultati/IstaisGoogle.jpg?raw=true)
 
 ---
 
@@ -49,7 +49,7 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Mans Google sākumlapas veidošanas meiģinājums
 </details>
 
-![MansGoogle](Rezultati\MansGoogle.jpg)
+![MansGoogle](https://github.com/Alberts-Liepins/HTML_Majaslapas/blob/main/Rezultati/MansGoogle.jpg?raw=true)
 
 ### Google "RVT" meklējuma rezultāts
 <details>
@@ -57,7 +57,7 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Oriģinālā Google "RVT" meklējuma rezultātu lapa.
 </details>
 
-![istaGoogleMeklejumuLapa](Rezultati\IstaGoogleMeklejumuLapa.png)
+![istaGoogleMeklejumuLapa](https://github.com/Alberts-Liepins/HTML_Majaslapas/blob/main/Rezultati/IstaGoogleMeklejumuLapa.png?raw=true)
 
 ---
 
@@ -66,4 +66,4 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Mana Google "RVT" meklējuma rezultātu lapa.
 </details>
 
-![ManaGoogleMeklejumuLapa](Rezultati\ManaGoogleMeklejumuLapa.png)
+![ManaGoogleMeklejumuLapa](https://github.com/Alberts-Liepins/HTML_Majaslapas/blob/main/Rezultati/ManaGoogleMeklejumuLapa.png?raw=true)
