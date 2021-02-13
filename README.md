@@ -57,7 +57,7 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Oriģinālā Google "RVT" meklējuma rezultātu lapa.
 </details>
 
-![istaisGoogle](Rezultāti\īstāGoogleMeklējumuLapa.png)
+![istāGoogleMeklējumuLapa](Rezultāti\īstāGoogleMeklējumuLapa.png)
 
 ---
 
@@ -66,4 +66,4 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Mana Google "RVT" meklējuma rezultātu lapa.
 </details>
 
-![MansGoogle](Rezultāti\ManaGoogleMeklējumuLapa.png)
+![MansGoogleMeklējumuLapa](Rezultāti\ManaGoogleMeklējumuLapa.png)
