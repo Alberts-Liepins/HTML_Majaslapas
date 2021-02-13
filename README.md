@@ -64,6 +64,8 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
 <details>
   <summary>Otrā bilde ir...</summary>
   Mana Google "RVT" meklējuma rezultātu lapa.
+
+  Protams ka srollbar palīdzēja izvēlēties
 </details>
 
 ![ManaGoogleMeklejumuLapa](https://github.com/Alberts-Liepins/HTML_Majaslapas/blob/main/Rezultati/ManaGoogleMeklejumuLapa.png?raw=true)
