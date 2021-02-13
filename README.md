@@ -24,12 +24,13 @@ Nav bijis gadijums kad ar šo jautājumu meklēšanas veidu neatradu atbildi. Da
 # Darba rezultāti
 Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google oriģināls, un pārbaudīt jūsu minējumu izplešot atbildi.
 
+### Google mājaslapa
 <details>
   <summary>Pirmā bilde ir...</summary>
   Oriģinālā sākuma lapa.
 </details>
 
-![istaisGoogle](istaisGoogle.jpg)
+![istaisGoogle](Rezultāti\istaisGoogle.jpg)
 
 ---
 
@@ -38,4 +39,21 @@ Jūs varat meiģināt uzimēt kurš no attēliem ir mans un kurš ir google ori�
   Mans Google sākumlapas veidošanas meiģinājums
 </details>
 
-![MansGoogle](MansGoogle.jpg)
+![MansGoogle](Rezultāti\MansGoogle.jpg)
+
+### Google "RVT" meklējuma rezultāts
+<details>
+  <summary>Pirmā bilde ir...</summary>
+  Oriģinālā Google "RVT" meklējuma rezultātu lapa.
+</details>
+
+![istaisGoogle](Rezultāti\īstāGoogleMeklējumuLapa.png)
+
+---
+
+<details>
+  <summary>Otrā bilde ir...</summary>
+  Mana Google "RVT" meklējuma rezultātu lapa.
+</details>
+
+![MansGoogle](Rezultāti\ManaGoogleMeklējumuLapa.png)
